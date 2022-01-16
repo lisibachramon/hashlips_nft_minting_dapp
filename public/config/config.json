@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x11Afbe5AEd6Bad241ecD8FB328882B9614299d67",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x11Afbe5AEd6Bad241ecD8FB328882B9614299d67",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "NFT_NAME": "Solar Boi Storm NFT",
+  "SYMBOL": "SBS",
+  "MAX_SUPPLY": 102,
+  "WEI_COST": 120000000000000000,
+  "DISPLAY_COST": 0.12,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/solar-boi-storm",
   "SHOW_BACKGROUND": true
 }
